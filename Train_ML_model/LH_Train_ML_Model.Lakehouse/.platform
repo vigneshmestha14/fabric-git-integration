@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Lakehouse",
+    "displayName": "LH_Train_ML_Model"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "2c67110c-7e46-9fea-4e24-35fa7042a157"
+  }
+}
