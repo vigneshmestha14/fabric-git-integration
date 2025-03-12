@@ -82,6 +82,7 @@ df_formatted = df.select(
     date_format(col("Date"), "E, MMM dd yyyy").alias("Formatted_Short")
 )
 df_formatted.show(truncate=False)
+dispaly(df_formatted)
 
 # METADATA ********************
 
