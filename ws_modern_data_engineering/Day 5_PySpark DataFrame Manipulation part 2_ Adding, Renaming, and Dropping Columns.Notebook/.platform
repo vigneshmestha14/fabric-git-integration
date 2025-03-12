@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "Day 5_PySpark DataFrame Manipulation part 2_ Adding, Renaming, and Dropping Columns",
+    "description": "New notebook"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "397d852d-b875-9a22-444b-00fc8d83e802"
+  }
+}
